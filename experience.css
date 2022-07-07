@@ -1,1 +1,34 @@
-@font-face{font-family:"Open Sans";src:url(f0cdede053a22b990af8.ttf)}@font-face{font-family:"Merienda-Bold";src:url(38d48e86c0ff1ff84e1d.ttf)}.U9Y7UAzKMW0Jx5YJ_jlS,.hy39YanyJ0IMDI6NVHo5,.e8oU63sIMDs3PHz259Tb{text-align:left}.lSnalANoNsdR_Ei5_WLP,.hTXSJbzcMlmwECg4t4wN,.uypnRjipORL4cp4c4s8q{text-align:left}.pWDKCSsmy0I6wBpzQVyN,.uypnRjipORL4cp4c4s8q,.hy39YanyJ0IMDI6NVHo5{color:#000;text-shadow:1px 1px 10px #dee2e6}.XRV8vyVKUwPnkI6K4VdZ,.hTXSJbzcMlmwECg4t4wN,.e8oU63sIMDs3PHz259Tb{color:#dbd7d2;text-shadow:2px 2px 8px #212529}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[3]!./node_modules/sass-resources-loader/lib/loader.js??ruleSet[1].rules[1].use[4]!./src/components/AnimatedQuote/styles.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/**
+ * This file is for importing using sass-resource-loader, as it defines all the common scss variables that 
+ * are used across scss modules in the project.
+ */
+@font-face {
+  font-family: "Open Sans";
+  src: url(f0cdede053a22b990af8.ttf);
+}
+@font-face {
+  font-family: "Merienda-Bold";
+  src: url(38d48e86c0ff1ff84e1d.ttf);
+}
+.U9Y7UAzKMW0Jx5YJ_jlS, .hy39YanyJ0IMDI6NVHo5, .e8oU63sIMDs3PHz259Tb {
+  text-align: left;
+}
+
+.lSnalANoNsdR_Ei5_WLP, .hTXSJbzcMlmwECg4t4wN, .uypnRjipORL4cp4c4s8q {
+  text-align: left;
+}
+
+.pWDKCSsmy0I6wBpzQVyN, .uypnRjipORL4cp4c4s8q, .hy39YanyJ0IMDI6NVHo5 {
+  color: black;
+  text-shadow: 1px 1px 10px #dee2e6;
+}
+
+.XRV8vyVKUwPnkI6K4VdZ, .hTXSJbzcMlmwECg4t4wN, .e8oU63sIMDs3PHz259Tb {
+  color: #dbd7d2;
+  text-shadow: 2px 2px 8px #212529;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZXhwZXJpZW5jZS5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBQUE7OztFQUFBO0FDTUE7RUFDRTtFQUNBO0FEREY7QUNJQTtFQUNFO0VBQ0E7QURGRjtBQU9BO0VBQ0U7QUFMRjs7QUFRQTtFQUNFO0FBTEY7O0FBUUE7RUFDRTtFQUNBO0FBTEY7O0FBUUE7RUFDRSxjQzdCTTtFRDhCTjtBQUxGLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9teS13ZWJwYWdlLXJldmFtcGVkLy4vc3JjL2NvbXBvbmVudHMvQW5pbWF0ZWRRdW90ZS9zdHlsZXMuc2NzcyIsIndlYnBhY2s6Ly9teS13ZWJwYWdlLXJldmFtcGVkLy4vc3JjL3N0eWxlcy9nbG9iYWwvX3ZhcmlhYmxlT3ZlcnJpZGVzLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBUaGlzIGZpbGUgaXMgZm9yIGltcG9ydGluZyB1c2luZyBzYXNzLXJlc291cmNlLWxvYWRlciwgYXMgaXQgZGVmaW5lcyBhbGwgdGhlIGNvbW1vbiBzY3NzIHZhcmlhYmxlcyB0aGF0IFxuICogYXJlIHVzZWQgYWNyb3NzIHNjc3MgbW9kdWxlcyBpbiB0aGUgcHJvamVjdC5cbiAqL1xuLy8gSW5jbHVkZSBmdW5jdGlvbnMgZmlyc3QgKHNvIHlvdSBjYW4gbWFuaXB1bGF0ZSBjb2xvcnMsIFNWR3MsIGNhbGMsIGV0YylcbkBpbXBvcnQgJ35ib290c3RyYXAvc2Nzcy9mdW5jdGlvbnMnO1xuXG4vLyBDdXN0b20gYm9vdHN0cmFwIHZhcmlhYmxlc1xuQGltcG9ydCAnLi4vLi4vc3R5bGVzL2dsb2JhbC92YXJpYWJsZU92ZXJyaWRlcyc7XG5cbi8vIEluY2x1ZGUgcmVtYWluZGVyIG9mIHJlcXVpcmVkIEJvb3RzdHJhcCBzdHlsZXNoZWV0c1xuQGltcG9ydCAnfmJvb3RzdHJhcC9zY3NzL3ZhcmlhYmxlcyc7XG5AaW1wb3J0ICd+Ym9vdHN0cmFwL3Njc3MvbWl4aW5zJztcblxuLy8gQ3VzdG9tIHZhcmlhYmxlcyBhbmQgbWl4aW5zIHRoYXQgcmVxdWlyZSBib290c3RyYXAgdG8gYmUgbG9hZGVkIGZpcnN0XG5AaW1wb3J0ICcuLi8uLi9zdHlsZXMvZ2xvYmFsL3ZhcmlhYmxlcyc7XG5AaW1wb3J0ICcuLi8uLi9zdHlsZXMvZ2xvYmFsL21peGlucyc7XG5cbi5xdW90ZSB7XG4gIHRleHQtYWxpZ246IGxlZnQ7XG59XG5cbi5mb290ZXIge1xuICB0ZXh0LWFsaWduOiBsZWZ0O1xufVxuXG4uZGFyayB7XG4gIGNvbG9yOiBibGFjaztcbiAgdGV4dC1zaGFkb3c6IDFweCAxcHggMTBweCAkZ3JheS0zMDA7XG59XG5cbi5saWdodCB7XG4gIGNvbG9yOiAkbGlnaHQ7XG4gIHRleHQtc2hhZG93OiAycHggMnB4IDhweCAkZ3JheS05MDA7XG59XG5cbi5saWdodFF1b3RlIHtcbiAgQGV4dGVuZCAucXVvdGU7XG4gIEBleHRlbmQgLmxpZ2h0O1xufVxuXG4uZGFya1F1b3RlIHtcbiAgQGV4dGVuZCAucXVvdGU7XG4gIEBleHRlbmQgLmRhcms7XG59XG5cbi5kYXJrRm9vdGVyIHtcbiAgQGV4dGVuZCAuZGFyaztcbiAgQGV4dGVuZCAuZm9vdGVyO1xufVxuXG4ubGlnaHRGb290ZXIge1xuICBAZXh0ZW5kIC5saWdodDtcbiAgQGV4dGVuZCAuZm9vdGVyO1xufVxuIiwiLy8gY3VzdG9tIGNvbG91cnMgdGhhdCBvdmVycmlkZSBib290c3RyYXAgdmFyaWFibGVzXG4kcHJpbWFyeTogIzBiMzk0OCAhZGVmYXVsdDtcbiRzZWNvbmRhcnk6ICM0ODFhMGIgIWRlZmF1bHQ7XG4kbGlnaHQ6ICNkYmQ3ZDIgIWRlZmF1bHQ7XG5cbi8vY3VzdG9tIGZvbnRzIC0gYWxsIGZvbnRzIGFyZSBzZXQgdG8gcHJlbG9hZFxuQGZvbnQtZmFjZSB7XG4gIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJztcbiAgc3JjOiB1cmwoJ3NyYy9hc3NldHMvZm9udHMvT3BlblNhbnMtTWVkaXVtLnR0ZicpO1xufVxuXG5AZm9udC1mYWNlIHtcbiAgZm9udC1mYW1pbHk6ICdNZXJpZW5kYS1Cb2xkJztcbiAgc3JjOiB1cmwoJ3NyYy9hc3NldHMvZm9udHMvTWVyaWVuZGEtQm9sZC50dGYnKTtcbn1cblxuLy8gZGVmYXVsdCBmb250IGZhbWlseSBzYW5zIHNlcmlmXG4kZm9udC1mYW1pbHktc2Fucy1zZXJpZjogJ09wZW4gU2FucycsIHNhbnMtc2VyaWY7XG4kZm9udC1mYW1pbHktY3Vyc2l2ZTogJ01lcmllbmRhLUJvbGQnO1xuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
